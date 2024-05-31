@@ -1,5 +1,5 @@
 title: My Project
 description: A description of my project
-baseurl: "/capyaddonwebsite" # The subpath of your project site
+baseurl: "/CapyAddonWebsite" # The subpath of your project site
 url: "https://capyking10.github.io"
 permalink: /:name/
